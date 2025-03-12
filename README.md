@@ -29,7 +29,7 @@ A weather application that retrieves and displays weather data based on location
   
 ## 🛠 Technical Skills  
 - **Programming Languages:** Python, C, C#, Kotlin  
-- **Web Technologies:** HTML, CSS, Javascript
+- **Web Technologies:** HTML, CSS, Javascript, React
 - **Version Control:** Git, GitHub  
 - **Databases:** SQL  
 
