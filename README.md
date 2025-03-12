@@ -16,7 +16,7 @@ A web-based expense tracker designed to help users **manage their spending effic
 - **User account integration with Firebase** (upcoming)  
 - **Monthly expenditure reports** for financial insights (upcoming) 
 
-### 🔹 [Weather App (Kotlin, OpenStreetMap API, Open-Meteo API)](https://github.com/sullivantuft/WeatherApp_UI)**  
+### 🔹 [Weather App (Kotlin, OpenStreetMap API, Open-Meteo API)](https://github.com/sullivantuft/WeatherApp_UI)
 A weather application that retrieves and displays weather data based on location. It includes:  
 - **Integration with OpenStreetMap API and Open-Meteo API** for location-based weather data  
 - **JSON file parsing** for structured data handling  
