@@ -10,7 +10,7 @@ A social media app that allows users to **capture and upload photos to their pro
 - **Cloud storage using Firebase**  
 - A **streamlined user experience** for sharing images
 
-### 🔹 **Weather App (Kotlin, OpenStreetMap API, Open-Meteo API)**  
+### 🔹 [Weather App (Kotlin, OpenStreetMap API, Open-Meteo API)](https://github.com/sullivantuft/WeatherApp_UI)**  
 A weather application that retrieves and displays weather data based on location. It includes:  
 - **Integration with OpenStreetMap API and Open-Meteo API** for location-based weather data  
 - **JSON file parsing** for structured data handling  
