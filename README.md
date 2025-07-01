@@ -4,7 +4,7 @@
 I'm a **Software Engineering** student at **Brigham Young University-Idaho**, with an emphasis in **Software Management**. Currently in my **junior year**, I am passionate about learning new technologies and building impactful software solutions. I am especially passionate about continously learning and growing as new technologies advance.
 
 ## 🏆 Projects  
-### 🔹 [Hidden Gem (Flutter, Firebase) *(In Progress)* ](https://github.com/crawfordk99/group-project)   
+### 🔹 [Hidden Gem (Flutter, Firebase)](https://github.com/crawfordk99/group-project)   
 A social media app that allows users to **capture and upload photos to their profiles**. It features:  
 - **User account integration** for authentication  
 - **Cloud storage using Firebase**  
